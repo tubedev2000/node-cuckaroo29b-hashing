@@ -1,0 +1,50 @@
+{
+  "_from": "git+https://github.com/tubedev2000/node-cuckaroo29b-hashing.git",
+  "_id": "cuckaroo29b-hashing@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cuckaroo29b-hashing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "cuckaroo29b-hashing@git+https://github.com/tubedev2000/node-cuckaroo29b-hashing.git",
+    "name": "cuckaroo29b-hashing",
+    "escapedName": "cuckaroo29b-hashing",
+    "rawSpec": "git+https://github.com/tubedev2000/node-cuckaroo29b-hashing.git",
+    "saveSpec": "git+https://github.com/tubedev2000/node-cuckaroo29b-hashing.git",
+    "fetchSpec": "https://github.com/tubedev2000/node-cuckaroo29b-hashing.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/tubedev2000/node-cuckaroo29b-hashing.git",
+  "_spec": "cuckaroo29b-hashing@git+https://github.com/tubedev2000/node-cuckaroo29b-hashing.git",
+  "_where": "/home/tube/src/node-cuckaroo29b-hashing",
+  "author": {
+    "name": "tubedev2000"
+  },
+  "bugs": {
+    "url": "https://github.com/tubedev2000/node-cuckaroo29b-hashing/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bignum": "*",
+    "bindings": "*",
+    "nan": "^2.8.0"
+  },
+  "deprecated": false,
+  "gypfile": true,
+  "homepage": "https://github.com/tubedev2000/node-cuckaroo29b-hashing#readme",
+  "license": "0bsd",
+  "main": "cuckaroo29b-hashing",
+  "name": "cuckaroo29b-hashing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tubedev2000/node-cuckaroo29b-hashing.git"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "version": "1.0.0"
+}
